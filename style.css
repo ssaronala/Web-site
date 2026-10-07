@@ -1,0 +1,239 @@
+*{
+    font-family: 'Inter';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.navbar {
+    width: 100%;
+    height: 85px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 18px;
+
+    background: #fff;
+    
+}
+
+
+.logo {
+    width: 75px;
+    height: auto;
+    
+}
+
+
+
+.navbar__list {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+    list-style: none;
+
+    margin-left: 140px;
+}
+
+.navbar__li {
+    list-style: none;
+}
+
+.navbar__link {
+    text-decoration: none;
+    color: #000;
+
+    font-size: 11px;
+    font-weight: 400;
+
+    
+}
+
+
+
+.social {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.facebook {
+    width: 15px;
+    height: 15px;
+    
+}
+
+.twitter {
+    width: 15px;
+    height: 15px;
+    
+}
+
+.instagram {
+    width: 16px;
+    height: 16px;
+    
+}
+
+.social img {
+    cursor: pointer;
+    transition: 0.2s;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chicken__wings {
+    width: 90%;
+    height: 490px;
+    margin: 30px auto;
+    display: flex;
+    
+}
+
+
+.Featured__recipe {
+    width: 50%;
+    background-color: #e5faff;
+    padding: 40px;
+}
+
+.hot__recipes {
+    background-color: white;
+    width: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.title {
+    font-size: 45px;
+    margin-top: 30px;
+}
+
+.lorem {
+    font-size: 13px;
+    color: #555;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.timer,
+.fork {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #d8eef2;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+.fork {
+    margin-left: 5px;
+}
+
+.clock,.forkknife {
+    width: 17px;
+}
+.chikens {
+    width: 50%;
+    position: relative;
+}
+
+.chikenimage {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.badge {
+    width: 120px;
+    position: absolute;
+    top: 40px;
+    left: -40px;
+}
+
+
+
+
+.customer {
+    display: flex;
+    align-items: center;
+    margin-top: 75px;
+}
+
+.ellipse {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.name {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.year {
+    margin-left: 10px;
+    font-size: 11px;
+    color: #555;
+}
+
+
+.view__recipe {
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 12px;
+}
+
+.play img {
+    width: 15px;
+    margin: auto;
+}
+.categories{
+    margin-top: 50px;
+}
+.view__Categories{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 200px;
+height: 60px;
+left: 1160px;
+top: 950px;
+
+background: #E7FAFE;
+border-radius: 16px;
+
+}
+.categories__img{
+    align-items: center;
+}
